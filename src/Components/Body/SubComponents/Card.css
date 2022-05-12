@@ -1,0 +1,30 @@
+.Card {
+  border: 2px solid black;
+  padding: 1rem;
+  width: 20rem;
+}
+.break-word {
+  word-wrap: break-word;
+}
+
+.text-badge {
+  font-size: 0.8rem;
+  position: relative;
+  top: 0;
+  left: 0;
+  margin-left: 1rem;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.tags {
+  font-size: 0.8rem;
+
+  position: relative;
+  bottom: 0;
+  left: 0;
+  margin-top: 0.8rem;
+}
